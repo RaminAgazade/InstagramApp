@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE2C85502AFED44A000D6574 /* AuthenticationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2C854F2AFED44A000D6574 /* AuthenticationViewModel.swift */; };
 		DE69A8CF2AF98C60002D1226 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE69A8CE2AF98C60002D1226 /* LoginController.swift */; };
 		DE69A8D12AF98C78002D1226 /* RegstrationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE69A8D02AF98C78002D1226 /* RegstrationController.swift */; };
 		DE741E5D2AFC392B005B82D4 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE741E5C2AFC392B005B82D4 /* CustomTextField.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE2C854F2AFED44A000D6574 /* AuthenticationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationViewModel.swift; sourceTree = "<group>"; };
 		DE69A8CE2AF98C60002D1226 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 		DE69A8D02AF98C78002D1226 /* RegstrationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegstrationController.swift; sourceTree = "<group>"; };
 		DE741E5C2AFC392B005B82D4 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 		DEE508422AF5B28500F6C307 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				DE2C854F2AFED44A000D6574 /* AuthenticationViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				DEB9AF6E2AF6EDD500466782 /* FeedCell.swift in Sources */,
 				DEE5084D2AF5B67000F6C307 /* ImageSelectorController.swift in Sources */,
 				DE69A8D12AF98C78002D1226 /* RegstrationController.swift in Sources */,
+				DE2C85502AFED44A000D6574 /* AuthenticationViewModel.swift in Sources */,
 				DEE5084B2AF5B65800F6C307 /* SearchController.swift in Sources */,
 				DEE5082C2AF5B1DF00F6C307 /* AppDelegate.swift in Sources */,
 				DEE508512AF5B6B600F6C307 /* ProfileController.swift in Sources */,
